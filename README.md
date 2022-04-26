@@ -109,4 +109,4 @@ POTENCJALNA PRZYCZYNA, NOWO WPORWADZONA MECHANIKA PODGLĄDU FILMU,
 
 # Autorzy
 
-@mokrysuchar
+[@mokrysuchar](https://github.com/mokrysuchar)
