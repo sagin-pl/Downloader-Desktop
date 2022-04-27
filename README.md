@@ -24,8 +24,8 @@ Downloader to aplikacja na różne platformy umożliwiająca pobieranie zdjęć 
 - Możliwość ODTWARZANIA filmu podczas pobierania </br>
 
 # Instalacja
-Aby zainstalować aplikację najpierw trzeba pobrać plik z zakładki [RELEASE](https://github.com/sagin-pl/Downloader-Desktop/releases).
-Następnie należy otworzyć plik z rozszerzeniem .exe o nazwie downloader, bądź skrót o tej samej nazwie.
+Aby zainstalować aplikację najpierw trzeba pobrać folder publish z zakładki [RELEASE](https://github.com/sagin-pl/Downloader-Desktop/releases).
+Następnie należy otworzyć plik z rozszerzeniem .exe o nazwie downloader.
 
 # Screenshots
 #### ALPHA
